@@ -1,5 +1,5 @@
  ### Oii, eu sou a Tatiane Mikalkenas
- [![ Digitando SVG ](https://readme-typing-svg.herokuapp.com?color=%FFFF85ff&size=18&duration=6000¢er=true&vCenter=true&width=600&lines=Hello+World+%3C3)](https://git. io/typing-svg)<br>
+ [![ Digitando SVG ](https://readme-typing-svg.herokuapp.com?color=%FFFF85ff&size=18&duration=6000¢er=true&vCenter=true&width=600&lines=Hello+World+%3C3)(https://git. io/typing-svg)
 
 
 - 🔍 Apaixonada por aprender coisas novas. Fique a vontade para me contatar!

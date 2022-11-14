@@ -1,5 +1,5 @@
  ### Oii, eu sou a Tatiane Mikalkenas
- ![ Digitando SVG ](https://readme-typing-svg.herokuapp.com?color=%FFFF85ff&size=18&duration=6000¢er=true&vCenter=true&width=600&lines=Hello+World+Seja+Bem+Vindo(a)+%3C3)
+ ![ Digitando SVG ](https://readme-typing-svg.herokuapp.com?color=%FFFF85ff&size=18&duration=6000¢er=true&vCenter=true&width=600&lines=Seja+Bem+Vindo(a)+%3C3)
 
 - 🔍 Apaixonada por aprender coisas novas. Fique a vontade para me contatar!
 - 🎓 Estudando no instituto proa, cursando Desenvolvimento Web Java.

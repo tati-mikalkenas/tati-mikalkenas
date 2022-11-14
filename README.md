@@ -1,4 +1,10 @@
  ### Oii, eu sou a Tatiane Mikalkenas
+ [![ Digitando SVG ](https://readme-typing-svg.herokuapp.com?color=%FFFF85ff&size=18&duration=6000¢er=true&vCenter=true&width=600&lines=Hello+World+%3C3)](https://git. io/typing-svg)<br>
+
+
+- 🔍 Apaixonada por aprender coisas novas. Fique a vontade para me contatar!
+- 🎓 Estudando no instituto proa, cursando Desenvolvimento Web Java.
+<br>
 <div align="center">
   <a href="https://www.linkedin.com/in/tatiane-mikalkenas/">
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=tati-mikalkenas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

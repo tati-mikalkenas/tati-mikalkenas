@@ -9,11 +9,20 @@
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=tati-mikalkenas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tati-mikalkenas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="tati-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="tati-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="tati-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="tati-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ 
+ 
+<h3 align="center">🛠 Tecnologias</h3>
+
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="tati-js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain .svg">
+  <img align="center" alt="tati-react" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original .svg">
+  <img align="center" alt="tati-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original .svg">
+  <img align="center" alt="tati-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original .svg">
+  <img align="center" alt="tati-NODEjs" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925 .png">
+  <img align="center" alt="tati-figma" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png">
+  <img align="center" alt="tati-bootstrap" height="40" width="40" src="https://camo.githubusercontent.com/2512b49c89512f2ff3718f7257f48ed5c46a4e331abbd890b6c5e8c0e458434f/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67">
+  <img align="center" alt="tati-sql" height="40" width="40" src="https://miro.medium.com/max/1200/0*DpQbYfdi_b4Lr45Z.">
+  <img align="center" alt="tati-java" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png ">
   <img align="right" alt="tati-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1025808545008074822/1041731488766513204/IMG-20221001-WA0019.jpg">
 </div>
   

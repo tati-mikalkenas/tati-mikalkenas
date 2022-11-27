@@ -14,10 +14,10 @@
 <h3 align="center">🛠 Tecnologias</h3>
 
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="tati-js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain .svg">
-  <img align="center" alt="tati-react" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original .svg">
-  <img align="center" alt="tati-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original .svg">
-  <img align="center" alt="tati-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original .svg">
+  <img align="center" alt="Tati-js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain .svg">
+  <img align="center" alt="Tati-react" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original .svg">
+  <img align="center" alt="Tati-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original .svg">
+  <img align="center" alt="Tati-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original .svg">
   <img align="center" alt="tati-NODEjs" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925 .png">
   <img align="center" alt="tati-figma" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png">
   <img align="center" alt="tati-bootstrap" height="40" width="40" src="https://camo.githubusercontent.com/2512b49c89512f2ff3718f7257f48ed5c46a4e331abbd890b6c5e8c0e458434f/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67">

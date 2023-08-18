@@ -2,7 +2,7 @@
  ![ Digitando SVG ](https://readme-typing-svg.herokuapp.com?color=%FFFF85ff&size=18&duration=6000¢er=true&vCenter=true&width=600&lines=Seja+Bem-+Vindo(a)+%3C3)
 
 - 🔍 Apaixonada por aprender coisas novas. Estou sempre em busca de mais conhecimento.
-- 🎓 Estudando no instituto proa, cursando Desenvolvimento Web Java.
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na Estácio
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/tatiane-mikalkenas/">
